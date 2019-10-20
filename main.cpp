@@ -1,6 +1,9 @@
 #include <iostream>
 #include <vector>
 #include "figure.h"
+#include "triangle.h"
+#include "octagon.h"
+#include "quadrate.h"
 int main() {
     std::vector<figure*> figures;
     for(;;) {
@@ -13,7 +16,6 @@ int main() {
             std::cin >> figure_id;
             figure* new_figure;
             if (figure_id == 0) {
-                double x1, x2, x3, x4, y1, y2, y3, y4;
                 new_figure = new octagon(std::cin);
             } else if (figure_id == 1) {
                 new_figure = new triangle(std::cin);

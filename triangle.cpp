@@ -9,6 +9,9 @@ triangle::triangle(const point& a, const point& b, const point& c) : _a{a}, _b{b
         throw std::logic_error("Triangle doesn't exist");
     }
 }
+triangle::triangle(std::istream& is) {
+    is >> _a >> _b >> _c;
+}
 double triangle::square() const {
     return ((_a.x - _c.x) * (_b.y - _c.y) - (_b.x - _c.x) * (_a.y - _c.y)) / 2;
 }
@@ -16,6 +19,6 @@ point triangle::center() const {
     return point{(_a.x + _b.x + _c.x) / 3, (_a.y + _b.y + _c.y) / 3};
 }
 std::ostream& triangle::print(std::ostream& os) const {
-    os << _a  << " " <<  _b << " " << _c;
+    os << _a  <<  _b  << _c << std::endl;
     return os;
 }

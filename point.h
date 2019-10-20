@@ -1,6 +1,3 @@
-//
-// Created by Ilya on 11.10.2019.
-//
 
 #ifndef OOP_EXERCISE_03_POINT_H
 #define OOP_EXERCISE_03_POINT_H
@@ -8,6 +5,10 @@
 struct point {
     double x,y;
 };
-
-std::istream operator>> (std::istream &is, point &a );
+point operator+ (point lhs, point rhs);
+point operator- (point lhs, point rhs);
+point operator* (point p, double t);
+point operator/ (point p, double t);
+std::istream &operator>> (std::istream &is, const point &p );
+std::ostream &operator<< (std::ostream &os, const point &p );
 #endif //OOP_EXERCISE_03_POINT_H

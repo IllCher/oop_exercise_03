@@ -3,4 +3,4 @@ project(oop_exercise_03)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(oop_exercise_03 main.cpp figure.h point.h disc.h rectangle.h disc.cpp rectangle.cpp point.cpp)
+add_executable(oop_exercise_03 main.cpp figure.h point.h rectangle.h rectangle.cpp point.cpp figure.cpp triangle.cpp triangle.h)

@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 #include "figure.h"
-#include "disc.h"
+#include "triangle.h"
 #include "rectangle.h"
 int main() {
     std::vector<figure*> figures;

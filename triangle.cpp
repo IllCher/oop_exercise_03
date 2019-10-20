@@ -16,5 +16,6 @@ point triangle::center() const {
     return point{(_a.x + _b.x + _c.x) / 3, (_a.y + _b.y + _c.y) / 3};
 }
 std::ostream& triangle::print(std::ostream& os) const {
-    os << _a << " " <<  _b << " " << _c;
+    os << _a  << " " <<  _b << " " << _c;
+    return os;
 }

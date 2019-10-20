@@ -1,8 +1,6 @@
 #include <iostream>
 #include <vector>
 #include "figure.h"
-#include "triangle.h"
-#include "rectangle.h"
 int main() {
     std::vector<figure*> figures;
     for(;;) {
@@ -15,9 +13,15 @@ int main() {
             std::cin >> figure_id;
             figure* new_figure;
             if (figure_id == 0) {
-                new_figure = new disc(std::cin);
+                double x1, x2, x3, x4, y1, y2, y3, y4;
+                new_figure = new octagon(std::cin);
             } else if (figure_id == 1) {
-                new_figure = new rectangle(std::cin);
+                new_figure = new triangle(std::cin);
+            } else if (figure_id == 2) {
+                new_figure = new quadrate(std::cin);
+            } else {
+                std::cout << "no such a figure\n" << std::endl;
+                exit(-1);
             }
             figures.push_back(new_figure);
         } else if(command == 2) {

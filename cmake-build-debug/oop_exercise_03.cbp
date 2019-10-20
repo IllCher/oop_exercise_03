@@ -89,16 +89,22 @@
 		<Unit filename="D:/Study/Labs2course/oop_exercise_03/main.cpp">
 			<Option target="oop_exercise_03"/>
 		</Unit>
+		<Unit filename="D:/Study/Labs2course/oop_exercise_03/octagon.cpp">
+			<Option target="oop_exercise_03"/>
+		</Unit>
+		<Unit filename="D:/Study/Labs2course/oop_exercise_03/octagon.h">
+			<Option target="oop_exercise_03"/>
+		</Unit>
 		<Unit filename="D:/Study/Labs2course/oop_exercise_03/point.cpp">
 			<Option target="oop_exercise_03"/>
 		</Unit>
 		<Unit filename="D:/Study/Labs2course/oop_exercise_03/point.h">
 			<Option target="oop_exercise_03"/>
 		</Unit>
-		<Unit filename="D:/Study/Labs2course/oop_exercise_03/rectangle.cpp">
+		<Unit filename="D:/Study/Labs2course/oop_exercise_03/quadrate.cpp">
 			<Option target="oop_exercise_03"/>
 		</Unit>
-		<Unit filename="D:/Study/Labs2course/oop_exercise_03/rectangle.h">
+		<Unit filename="D:/Study/Labs2course/oop_exercise_03/quadrate.h">
 			<Option target="oop_exercise_03"/>
 		</Unit>
 		<Unit filename="D:/Study/Labs2course/oop_exercise_03/triangle.cpp">

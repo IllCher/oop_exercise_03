@@ -176,6 +176,33 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles\oop_exercise_03.dir\build.make CMakeFiles/oop_exercise_03.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+octagon.obj: octagon.cpp.obj
+
+.PHONY : octagon.obj
+
+# target to build an object file
+octagon.cpp.obj:
+	$(MAKE) -f CMakeFiles\oop_exercise_03.dir\build.make CMakeFiles/oop_exercise_03.dir/octagon.cpp.obj
+.PHONY : octagon.cpp.obj
+
+octagon.i: octagon.cpp.i
+
+.PHONY : octagon.i
+
+# target to preprocess a source file
+octagon.cpp.i:
+	$(MAKE) -f CMakeFiles\oop_exercise_03.dir\build.make CMakeFiles/oop_exercise_03.dir/octagon.cpp.i
+.PHONY : octagon.cpp.i
+
+octagon.s: octagon.cpp.s
+
+.PHONY : octagon.s
+
+# target to generate assembly for a file
+octagon.cpp.s:
+	$(MAKE) -f CMakeFiles\oop_exercise_03.dir\build.make CMakeFiles/oop_exercise_03.dir/octagon.cpp.s
+.PHONY : octagon.cpp.s
+
 point.obj: point.cpp.obj
 
 .PHONY : point.obj
@@ -203,32 +230,32 @@ point.cpp.s:
 	$(MAKE) -f CMakeFiles\oop_exercise_03.dir\build.make CMakeFiles/oop_exercise_03.dir/point.cpp.s
 .PHONY : point.cpp.s
 
-rectangle.obj: rectangle.cpp.obj
+quadrate.obj: quadrate.cpp.obj
 
-.PHONY : rectangle.obj
+.PHONY : quadrate.obj
 
 # target to build an object file
-rectangle.cpp.obj:
-	$(MAKE) -f CMakeFiles\oop_exercise_03.dir\build.make CMakeFiles/oop_exercise_03.dir/rectangle.cpp.obj
-.PHONY : rectangle.cpp.obj
+quadrate.cpp.obj:
+	$(MAKE) -f CMakeFiles\oop_exercise_03.dir\build.make CMakeFiles/oop_exercise_03.dir/quadrate.cpp.obj
+.PHONY : quadrate.cpp.obj
 
-rectangle.i: rectangle.cpp.i
+quadrate.i: quadrate.cpp.i
 
-.PHONY : rectangle.i
+.PHONY : quadrate.i
 
 # target to preprocess a source file
-rectangle.cpp.i:
-	$(MAKE) -f CMakeFiles\oop_exercise_03.dir\build.make CMakeFiles/oop_exercise_03.dir/rectangle.cpp.i
-.PHONY : rectangle.cpp.i
+quadrate.cpp.i:
+	$(MAKE) -f CMakeFiles\oop_exercise_03.dir\build.make CMakeFiles/oop_exercise_03.dir/quadrate.cpp.i
+.PHONY : quadrate.cpp.i
 
-rectangle.s: rectangle.cpp.s
+quadrate.s: quadrate.cpp.s
 
-.PHONY : rectangle.s
+.PHONY : quadrate.s
 
 # target to generate assembly for a file
-rectangle.cpp.s:
-	$(MAKE) -f CMakeFiles\oop_exercise_03.dir\build.make CMakeFiles/oop_exercise_03.dir/rectangle.cpp.s
-.PHONY : rectangle.cpp.s
+quadrate.cpp.s:
+	$(MAKE) -f CMakeFiles\oop_exercise_03.dir\build.make CMakeFiles/oop_exercise_03.dir/quadrate.cpp.s
+.PHONY : quadrate.cpp.s
 
 triangle.obj: triangle.cpp.obj
 
@@ -272,12 +299,15 @@ help:
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... octagon.obj
+	@echo ... octagon.i
+	@echo ... octagon.s
 	@echo ... point.obj
 	@echo ... point.i
 	@echo ... point.s
-	@echo ... rectangle.obj
-	@echo ... rectangle.i
-	@echo ... rectangle.s
+	@echo ... quadrate.obj
+	@echo ... quadrate.i
+	@echo ... quadrate.s
 	@echo ... triangle.obj
 	@echo ... triangle.i
 	@echo ... triangle.s

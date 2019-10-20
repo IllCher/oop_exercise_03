@@ -69,22 +69,9 @@ CMakeFiles/oop_exercise_03.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/oop_exercise_03.dir/main.cpp.s"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Study\Labs2course\oop_exercise_03\main.cpp -o CMakeFiles\oop_exercise_03.dir\main.cpp.s
 
-CMakeFiles/oop_exercise_03.dir/rectangle.cpp.obj: CMakeFiles/oop_exercise_03.dir/flags.make
-CMakeFiles/oop_exercise_03.dir/rectangle.cpp.obj: ../rectangle.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Study\Labs2course\oop_exercise_03\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/oop_exercise_03.dir/rectangle.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\oop_exercise_03.dir\rectangle.cpp.obj -c D:\Study\Labs2course\oop_exercise_03\rectangle.cpp
-
-CMakeFiles/oop_exercise_03.dir/rectangle.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/oop_exercise_03.dir/rectangle.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Study\Labs2course\oop_exercise_03\rectangle.cpp > CMakeFiles\oop_exercise_03.dir\rectangle.cpp.i
-
-CMakeFiles/oop_exercise_03.dir/rectangle.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/oop_exercise_03.dir/rectangle.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Study\Labs2course\oop_exercise_03\rectangle.cpp -o CMakeFiles\oop_exercise_03.dir\rectangle.cpp.s
-
 CMakeFiles/oop_exercise_03.dir/point.cpp.obj: CMakeFiles/oop_exercise_03.dir/flags.make
 CMakeFiles/oop_exercise_03.dir/point.cpp.obj: ../point.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Study\Labs2course\oop_exercise_03\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/oop_exercise_03.dir/point.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Study\Labs2course\oop_exercise_03\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/oop_exercise_03.dir/point.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\oop_exercise_03.dir\point.cpp.obj -c D:\Study\Labs2course\oop_exercise_03\point.cpp
 
 CMakeFiles/oop_exercise_03.dir/point.cpp.i: cmake_force
@@ -97,7 +84,7 @@ CMakeFiles/oop_exercise_03.dir/point.cpp.s: cmake_force
 
 CMakeFiles/oop_exercise_03.dir/figure.cpp.obj: CMakeFiles/oop_exercise_03.dir/flags.make
 CMakeFiles/oop_exercise_03.dir/figure.cpp.obj: ../figure.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Study\Labs2course\oop_exercise_03\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/oop_exercise_03.dir/figure.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Study\Labs2course\oop_exercise_03\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/oop_exercise_03.dir/figure.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\oop_exercise_03.dir\figure.cpp.obj -c D:\Study\Labs2course\oop_exercise_03\figure.cpp
 
 CMakeFiles/oop_exercise_03.dir/figure.cpp.i: cmake_force
@@ -110,7 +97,7 @@ CMakeFiles/oop_exercise_03.dir/figure.cpp.s: cmake_force
 
 CMakeFiles/oop_exercise_03.dir/triangle.cpp.obj: CMakeFiles/oop_exercise_03.dir/flags.make
 CMakeFiles/oop_exercise_03.dir/triangle.cpp.obj: ../triangle.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Study\Labs2course\oop_exercise_03\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/oop_exercise_03.dir/triangle.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Study\Labs2course\oop_exercise_03\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/oop_exercise_03.dir/triangle.cpp.obj"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\oop_exercise_03.dir\triangle.cpp.obj -c D:\Study\Labs2course\oop_exercise_03\triangle.cpp
 
 CMakeFiles/oop_exercise_03.dir/triangle.cpp.i: cmake_force
@@ -121,27 +108,55 @@ CMakeFiles/oop_exercise_03.dir/triangle.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/oop_exercise_03.dir/triangle.cpp.s"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Study\Labs2course\oop_exercise_03\triangle.cpp -o CMakeFiles\oop_exercise_03.dir\triangle.cpp.s
 
+CMakeFiles/oop_exercise_03.dir/quadrate.cpp.obj: CMakeFiles/oop_exercise_03.dir/flags.make
+CMakeFiles/oop_exercise_03.dir/quadrate.cpp.obj: ../quadrate.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Study\Labs2course\oop_exercise_03\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/oop_exercise_03.dir/quadrate.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\oop_exercise_03.dir\quadrate.cpp.obj -c D:\Study\Labs2course\oop_exercise_03\quadrate.cpp
+
+CMakeFiles/oop_exercise_03.dir/quadrate.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/oop_exercise_03.dir/quadrate.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Study\Labs2course\oop_exercise_03\quadrate.cpp > CMakeFiles\oop_exercise_03.dir\quadrate.cpp.i
+
+CMakeFiles/oop_exercise_03.dir/quadrate.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/oop_exercise_03.dir/quadrate.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Study\Labs2course\oop_exercise_03\quadrate.cpp -o CMakeFiles\oop_exercise_03.dir\quadrate.cpp.s
+
+CMakeFiles/oop_exercise_03.dir/octagon.cpp.obj: CMakeFiles/oop_exercise_03.dir/flags.make
+CMakeFiles/oop_exercise_03.dir/octagon.cpp.obj: ../octagon.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Study\Labs2course\oop_exercise_03\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/oop_exercise_03.dir/octagon.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\oop_exercise_03.dir\octagon.cpp.obj -c D:\Study\Labs2course\oop_exercise_03\octagon.cpp
+
+CMakeFiles/oop_exercise_03.dir/octagon.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/oop_exercise_03.dir/octagon.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Study\Labs2course\oop_exercise_03\octagon.cpp > CMakeFiles\oop_exercise_03.dir\octagon.cpp.i
+
+CMakeFiles/oop_exercise_03.dir/octagon.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/oop_exercise_03.dir/octagon.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Study\Labs2course\oop_exercise_03\octagon.cpp -o CMakeFiles\oop_exercise_03.dir\octagon.cpp.s
+
 # Object files for target oop_exercise_03
 oop_exercise_03_OBJECTS = \
 "CMakeFiles/oop_exercise_03.dir/main.cpp.obj" \
-"CMakeFiles/oop_exercise_03.dir/rectangle.cpp.obj" \
 "CMakeFiles/oop_exercise_03.dir/point.cpp.obj" \
 "CMakeFiles/oop_exercise_03.dir/figure.cpp.obj" \
-"CMakeFiles/oop_exercise_03.dir/triangle.cpp.obj"
+"CMakeFiles/oop_exercise_03.dir/triangle.cpp.obj" \
+"CMakeFiles/oop_exercise_03.dir/quadrate.cpp.obj" \
+"CMakeFiles/oop_exercise_03.dir/octagon.cpp.obj"
 
 # External object files for target oop_exercise_03
 oop_exercise_03_EXTERNAL_OBJECTS =
 
 oop_exercise_03.exe: CMakeFiles/oop_exercise_03.dir/main.cpp.obj
-oop_exercise_03.exe: CMakeFiles/oop_exercise_03.dir/rectangle.cpp.obj
 oop_exercise_03.exe: CMakeFiles/oop_exercise_03.dir/point.cpp.obj
 oop_exercise_03.exe: CMakeFiles/oop_exercise_03.dir/figure.cpp.obj
 oop_exercise_03.exe: CMakeFiles/oop_exercise_03.dir/triangle.cpp.obj
+oop_exercise_03.exe: CMakeFiles/oop_exercise_03.dir/quadrate.cpp.obj
+oop_exercise_03.exe: CMakeFiles/oop_exercise_03.dir/octagon.cpp.obj
 oop_exercise_03.exe: CMakeFiles/oop_exercise_03.dir/build.make
 oop_exercise_03.exe: CMakeFiles/oop_exercise_03.dir/linklibs.rsp
 oop_exercise_03.exe: CMakeFiles/oop_exercise_03.dir/objects1.rsp
 oop_exercise_03.exe: CMakeFiles/oop_exercise_03.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\Study\Labs2course\oop_exercise_03\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable oop_exercise_03.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\Study\Labs2course\oop_exercise_03\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable oop_exercise_03.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\oop_exercise_03.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

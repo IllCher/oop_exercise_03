@@ -6,8 +6,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "D:/Study/Labs2course/oop_exercise_03/figure.cpp" "D:/Study/Labs2course/oop_exercise_03/cmake-build-debug/CMakeFiles/oop_exercise_03.dir/figure.cpp.obj"
   "D:/Study/Labs2course/oop_exercise_03/main.cpp" "D:/Study/Labs2course/oop_exercise_03/cmake-build-debug/CMakeFiles/oop_exercise_03.dir/main.cpp.obj"
+  "D:/Study/Labs2course/oop_exercise_03/octagon.cpp" "D:/Study/Labs2course/oop_exercise_03/cmake-build-debug/CMakeFiles/oop_exercise_03.dir/octagon.cpp.obj"
   "D:/Study/Labs2course/oop_exercise_03/point.cpp" "D:/Study/Labs2course/oop_exercise_03/cmake-build-debug/CMakeFiles/oop_exercise_03.dir/point.cpp.obj"
-  "D:/Study/Labs2course/oop_exercise_03/rectangle.cpp" "D:/Study/Labs2course/oop_exercise_03/cmake-build-debug/CMakeFiles/oop_exercise_03.dir/rectangle.cpp.obj"
+  "D:/Study/Labs2course/oop_exercise_03/quadrate.cpp" "D:/Study/Labs2course/oop_exercise_03/cmake-build-debug/CMakeFiles/oop_exercise_03.dir/quadrate.cpp.obj"
   "D:/Study/Labs2course/oop_exercise_03/triangle.cpp" "D:/Study/Labs2course/oop_exercise_03/cmake-build-debug/CMakeFiles/oop_exercise_03.dir/triangle.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

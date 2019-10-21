@@ -1,5 +1,4 @@
 #include "octagon.h"
-
 octagon::octagon(): _a{0, 0}, _b{0, 0}{}
 octagon::octagon(std::istream& is) {
     is >> _a >> _b >> _c >> _d >> _e >> _f >> _g >> _h;

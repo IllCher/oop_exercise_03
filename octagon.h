@@ -1,8 +1,6 @@
 #ifndef OOP_EXERCISE_03_OCTAGON_H
 #define OOP_EXERCISE_03_OCTAGON_H
-
 #include "figure.h"
-
 class octagon : public figure {
 public:
     octagon();
@@ -20,8 +18,5 @@ private:
     point _f;
     point _g;
     point _h;
-
 };
-
-
 #endif //OOP_EXERCISE_03_OCTAGON_H

@@ -6,55 +6,39 @@
 
 #IncludeRegexTransform: 
 
-D:/Study/Labs2course/oop_exercise_03/figure.cpp
-figure.h
-D:/Study/Labs2course/oop_exercise_03/figure.h
-
-D:/Study/Labs2course/oop_exercise_03/figure.h
+/cygdrive/c/Users/Ilya/Desktop/Labs2course/oop_exercise_03/figure.h
 iostream
 -
 point.h
-D:/Study/Labs2course/oop_exercise_03/point.h
+/cygdrive/c/Users/Ilya/Desktop/Labs2course/oop_exercise_03/point.h
 cmath
 -
 
-D:/Study/Labs2course/oop_exercise_03/main.cpp
-iostream
--
-vector
--
-figure.h
-D:/Study/Labs2course/oop_exercise_03/figure.h
-
-D:/Study/Labs2course/oop_exercise_03/octagon.cpp
+/cygdrive/c/Users/Ilya/Desktop/Labs2course/oop_exercise_03/octagon.cpp
 octagon.h
-D:/Study/Labs2course/oop_exercise_03/octagon.h
+/cygdrive/c/Users/Ilya/Desktop/Labs2course/oop_exercise_03/octagon.h
 
-D:/Study/Labs2course/oop_exercise_03/octagon.h
+/cygdrive/c/Users/Ilya/Desktop/Labs2course/oop_exercise_03/octagon.h
 figure.h
-D:/Study/Labs2course/oop_exercise_03/figure.h
+/cygdrive/c/Users/Ilya/Desktop/Labs2course/oop_exercise_03/figure.h
 
-D:/Study/Labs2course/oop_exercise_03/point.cpp
-point.h
-D:/Study/Labs2course/oop_exercise_03/point.h
-
-D:/Study/Labs2course/oop_exercise_03/point.h
+/cygdrive/c/Users/Ilya/Desktop/Labs2course/oop_exercise_03/point.h
 iostream
 -
 
-D:/Study/Labs2course/oop_exercise_03/quadrate.cpp
+/cygdrive/c/Users/Ilya/Desktop/Labs2course/oop_exercise_03/quadrate.cpp
 quadrate.h
-D:/Study/Labs2course/oop_exercise_03/quadrate.h
+/cygdrive/c/Users/Ilya/Desktop/Labs2course/oop_exercise_03/quadrate.h
 
-D:/Study/Labs2course/oop_exercise_03/quadrate.h
+/cygdrive/c/Users/Ilya/Desktop/Labs2course/oop_exercise_03/quadrate.h
 figure.h
-D:/Study/Labs2course/oop_exercise_03/figure.h
+/cygdrive/c/Users/Ilya/Desktop/Labs2course/oop_exercise_03/figure.h
 
-D:/Study/Labs2course/oop_exercise_03/triangle.cpp
+/cygdrive/c/Users/Ilya/Desktop/Labs2course/oop_exercise_03/triangle.cpp
 triangle.h
-D:/Study/Labs2course/oop_exercise_03/triangle.h
+/cygdrive/c/Users/Ilya/Desktop/Labs2course/oop_exercise_03/triangle.h
 
-D:/Study/Labs2course/oop_exercise_03/triangle.h
+/cygdrive/c/Users/Ilya/Desktop/Labs2course/oop_exercise_03/triangle.h
 figure.h
-D:/Study/Labs2course/oop_exercise_03/figure.h
+/cygdrive/c/Users/Ilya/Desktop/Labs2course/oop_exercise_03/figure.h
 

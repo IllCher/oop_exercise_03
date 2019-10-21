@@ -6,39 +6,23 @@
 
 #IncludeRegexTransform: 
 
-/cygdrive/c/Users/Ilya/Desktop/Labs2course/oop_exercise_03/figure.h
+D:/Study/Labs2course/oop_exercise_03/figure.h
 iostream
 -
 point.h
-/cygdrive/c/Users/Ilya/Desktop/Labs2course/oop_exercise_03/point.h
+D:/Study/Labs2course/oop_exercise_03/point.h
 cmath
 -
 
-/cygdrive/c/Users/Ilya/Desktop/Labs2course/oop_exercise_03/octagon.cpp
-octagon.h
-/cygdrive/c/Users/Ilya/Desktop/Labs2course/oop_exercise_03/octagon.h
-
-/cygdrive/c/Users/Ilya/Desktop/Labs2course/oop_exercise_03/octagon.h
-figure.h
-/cygdrive/c/Users/Ilya/Desktop/Labs2course/oop_exercise_03/figure.h
-
-/cygdrive/c/Users/Ilya/Desktop/Labs2course/oop_exercise_03/point.h
+D:/Study/Labs2course/oop_exercise_03/point.h
 iostream
 -
 
-/cygdrive/c/Users/Ilya/Desktop/Labs2course/oop_exercise_03/quadrate.cpp
-quadrate.h
-/cygdrive/c/Users/Ilya/Desktop/Labs2course/oop_exercise_03/quadrate.h
-
-/cygdrive/c/Users/Ilya/Desktop/Labs2course/oop_exercise_03/quadrate.h
-figure.h
-/cygdrive/c/Users/Ilya/Desktop/Labs2course/oop_exercise_03/figure.h
-
-/cygdrive/c/Users/Ilya/Desktop/Labs2course/oop_exercise_03/triangle.cpp
+D:/Study/Labs2course/oop_exercise_03/triangle.cpp
 triangle.h
-/cygdrive/c/Users/Ilya/Desktop/Labs2course/oop_exercise_03/triangle.h
+D:/Study/Labs2course/oop_exercise_03/triangle.h
 
-/cygdrive/c/Users/Ilya/Desktop/Labs2course/oop_exercise_03/triangle.h
+D:/Study/Labs2course/oop_exercise_03/triangle.h
 figure.h
-/cygdrive/c/Users/Ilya/Desktop/Labs2course/oop_exercise_03/figure.h
+D:/Study/Labs2course/oop_exercise_03/figure.h
 

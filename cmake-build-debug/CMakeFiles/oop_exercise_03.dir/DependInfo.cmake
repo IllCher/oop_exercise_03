@@ -4,12 +4,12 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/cygdrive/c/Users/Ilya/Desktop/Labs2course/oop_exercise_03/figure.cpp" "/cygdrive/c/Users/Ilya/Desktop/Labs2course/oop_exercise_03/cmake-build-debug/CMakeFiles/oop_exercise_03.dir/figure.cpp.o"
-  "/cygdrive/c/Users/Ilya/Desktop/Labs2course/oop_exercise_03/main.cpp" "/cygdrive/c/Users/Ilya/Desktop/Labs2course/oop_exercise_03/cmake-build-debug/CMakeFiles/oop_exercise_03.dir/main.cpp.o"
-  "/cygdrive/c/Users/Ilya/Desktop/Labs2course/oop_exercise_03/octagon.cpp" "/cygdrive/c/Users/Ilya/Desktop/Labs2course/oop_exercise_03/cmake-build-debug/CMakeFiles/oop_exercise_03.dir/octagon.cpp.o"
-  "/cygdrive/c/Users/Ilya/Desktop/Labs2course/oop_exercise_03/point.cpp" "/cygdrive/c/Users/Ilya/Desktop/Labs2course/oop_exercise_03/cmake-build-debug/CMakeFiles/oop_exercise_03.dir/point.cpp.o"
-  "/cygdrive/c/Users/Ilya/Desktop/Labs2course/oop_exercise_03/quadrate.cpp" "/cygdrive/c/Users/Ilya/Desktop/Labs2course/oop_exercise_03/cmake-build-debug/CMakeFiles/oop_exercise_03.dir/quadrate.cpp.o"
-  "/cygdrive/c/Users/Ilya/Desktop/Labs2course/oop_exercise_03/triangle.cpp" "/cygdrive/c/Users/Ilya/Desktop/Labs2course/oop_exercise_03/cmake-build-debug/CMakeFiles/oop_exercise_03.dir/triangle.cpp.o"
+  "D:/Study/Labs2course/oop_exercise_03/figure.cpp" "D:/Study/Labs2course/oop_exercise_03/cmake-build-debug/CMakeFiles/oop_exercise_03.dir/figure.cpp.obj"
+  "D:/Study/Labs2course/oop_exercise_03/main.cpp" "D:/Study/Labs2course/oop_exercise_03/cmake-build-debug/CMakeFiles/oop_exercise_03.dir/main.cpp.obj"
+  "D:/Study/Labs2course/oop_exercise_03/octagon.cpp" "D:/Study/Labs2course/oop_exercise_03/cmake-build-debug/CMakeFiles/oop_exercise_03.dir/octagon.cpp.obj"
+  "D:/Study/Labs2course/oop_exercise_03/point.cpp" "D:/Study/Labs2course/oop_exercise_03/cmake-build-debug/CMakeFiles/oop_exercise_03.dir/point.cpp.obj"
+  "D:/Study/Labs2course/oop_exercise_03/quadrate.cpp" "D:/Study/Labs2course/oop_exercise_03/cmake-build-debug/CMakeFiles/oop_exercise_03.dir/quadrate.cpp.obj"
+  "D:/Study/Labs2course/oop_exercise_03/triangle.cpp" "D:/Study/Labs2course/oop_exercise_03/cmake-build-debug/CMakeFiles/oop_exercise_03.dir/triangle.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

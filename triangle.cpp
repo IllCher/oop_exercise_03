@@ -13,7 +13,7 @@ triangle::triangle(std::istream& is) {
     is >> _a >> _b >> _c;
 }
 double triangle::square() const {
-    return ((_a.x - _c.x) * (_b.y - _c.y) - (_b.x - _c.x) * (_a.y - _c.y)) / 2;
+    return fabs(((_a.x - _c.x) * (_b.y - _c.y) - (_b.x - _c.x) * (_a.y - _c.y)) / 2);
 }
 point triangle::center() const {
     return point{(_a.x + _b.x + _c.x) / 3, (_a.y + _b.y + _c.y) / 3};

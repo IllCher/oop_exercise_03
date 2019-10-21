@@ -35,7 +35,7 @@ int main() {
                 }
             } else if (function_id == 1){
                 for(figure* cur_figure: figures) {
-                    std::cout<<cur_figure->square()<<'\n';
+                    std::cout << cur_figure->square() << '\n' << '\n';
                 }
             } else if (function_id == 2) {
                 for(figure* cur_figure: figures) {

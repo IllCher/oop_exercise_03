@@ -14,13 +14,35 @@ D:/Study/Labs2course/oop_exercise_03/point.h
 cmath
 -
 
+D:/Study/Labs2course/oop_exercise_03/main.cpp
+iostream
+-
+vector
+-
+figure.h
+D:/Study/Labs2course/oop_exercise_03/figure.h
+triangle.h
+D:/Study/Labs2course/oop_exercise_03/triangle.h
+octagon.h
+D:/Study/Labs2course/oop_exercise_03/octagon.h
+quadrate.h
+D:/Study/Labs2course/oop_exercise_03/quadrate.h
+
+D:/Study/Labs2course/oop_exercise_03/octagon.cpp
+octagon.h
+D:/Study/Labs2course/oop_exercise_03/octagon.h
+
+D:/Study/Labs2course/oop_exercise_03/octagon.h
+figure.h
+D:/Study/Labs2course/oop_exercise_03/figure.h
+
 D:/Study/Labs2course/oop_exercise_03/point.h
 iostream
 -
 
-D:/Study/Labs2course/oop_exercise_03/triangle.cpp
-triangle.h
-D:/Study/Labs2course/oop_exercise_03/triangle.h
+D:/Study/Labs2course/oop_exercise_03/quadrate.h
+figure.h
+D:/Study/Labs2course/oop_exercise_03/figure.h
 
 D:/Study/Labs2course/oop_exercise_03/triangle.h
 figure.h

@@ -1,7 +1,5 @@
-
 #ifndef OOP_EXERCISE_03_QUADRATE_H
 #define OOP_EXERCISE_03_QUADRATE_H
-
 #include "figure.h"
 class quadrate : public figure {
 public:
@@ -15,6 +13,4 @@ private:
     point _a;
     point _c;
 };
-
-
 #endif //OOP_EXERCISE_03_QUADRATE_H

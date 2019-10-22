@@ -45,6 +45,10 @@ int main() {
         } else if (command == 3) {
             int id;
             std::cin >> id;
+            if (id >= figures.size()) {
+                std::cout << "no such an element" << '\n';
+                exit(-1);
+            }
             delete figures[id];
             figures.erase(figures.begin() + id);
         }

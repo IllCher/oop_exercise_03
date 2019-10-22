@@ -11,6 +11,7 @@ point quadrate::center() const {
     return point{(_a.x + _b.x) / 2, (_a.y + _b.y) / 2};
 }
 std::ostream& quadrate::print(std::ostream& os) const {
+    point m = center();
     os << _a  << _b << std::endl;
     return os;
 }

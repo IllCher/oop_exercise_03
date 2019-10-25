@@ -5,7 +5,7 @@ quadrate::quadrate(std::istream &is) {
     is >> _a >> _c;
 };
 double quadrate::square() const {
-    return (_c.x - _a.x) * (_c.x - _a.x);
+    return ((_c.x - _a.x) * (_c.x - _a.x) + (_c.y - _a.y) * (_c.y - _a.y))/2;
 }
 point quadrate::center() const {
     return point{(_a.x + _c.x) / 2, (_a.y + _c.y) / 2};

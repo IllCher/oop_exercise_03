@@ -7,7 +7,7 @@
 int main() {
     std::vector<figure*> figures;
     for(;;) {
-        int command;
+        int command = 0;
         std::cin >> command;
         if (command == 0) {
             break;
